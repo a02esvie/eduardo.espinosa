@@ -1,0 +1,828 @@
+{
+  "projects": [
+    {
+      "n": 1,
+      "code": "PDC2025-165117-100",
+      "title": "Terapia regenerativa para úlceras del pie diabético mediante activación del eje B55a/AMPK/SIRT1/HIF -1α con derivados aminoquinona del cannabidiol bioimpresos",
+      "duration": "",
+      "budget": "242.000,00 €",
+      "role": "Equipo de investigación"
+    },
+    {
+      "n": 2,
+      "code": "PRIMA- S2-2023-PCI2024-153453",
+      "title": "Shelf -life Enhancing Packaging Systems for Mediterranean Food through Innovative and Circular Solutions based on Agri -food MultiProduct Cascade Biorefinery (BIOMEDPACK)",
+      "duration": "",
+      "budget": "1.640.263,00 €",
+      "role": "Coordinador europeo"
+    },
+    {
+      "n": 3,
+      "code": "CPP2023 -010820",
+      "title": "Impresión de implantes óseos biomiméticos y regenerativos",
+      "duration": "",
+      "budget": "93.202,70 €",
+      "role": "Equipo de investigación"
+    },
+    {
+      "n": 4,
+      "code": "TED2021 -129920A-C42",
+      "title": "Biorefinery of naturally -derived residues for tailoring functional multimaterials (EC0FOOTPrint)",
+      "duration": "",
+      "budget": "133.630,00 €",
+      "role": "Equipo de investigación"
+    },
+    {
+      "n": 5,
+      "code": "PLEC2021-008210",
+      "title": "Boosting the use of nanocellulose for sustainable materials in cosmetic, biofertilizers and bioplastics (BOOCELL)",
+      "duration": "",
+      "budget": "95.562,00 €",
+      "role": "Equipo de investigación"
+    },
+    {
+      "n": 6,
+      "code": "PID2020-117718RB-I00",
+      "title": "Valorizing horticultural crop residues for sustainable food preservation and packaging (AgroVal4PackFood)",
+      "duration": "",
+      "budget": "229.900,00 €",
+      "role": "Equipo de investigación"
+    },
+    {
+      "n": 7,
+      "code": "PRIMA- S2-2019-PCI2020-112015",
+      "title": "Enhancing Mediterranean Fresh Produce Shelf - life using sustainable preservative technologies (BIOFRESHCLOUD )",
+      "duration": "",
+      "budget": "598.935,00 €",
+      "role": "Equipo de investigación"
+    },
+    {
+      "n": 8,
+      "code": "P18-RT-4064",
+      "title": "Valorisation of agricultural waste for agrifood applications (VALORE). PAIDI 2020 – Junta de Andalucía. Universidad de Córdoba. Duración: 01/01/2020 – 30/06/2023. Investigadores principales: Alejandro Rodríguez / Elena Carrasco. Presupuesto: 108.292,01 €. Rol: Equipo de investigación",
+      "duration": "",
+      "budget": "108.292,01 €",
+      "role": "Equipo de investigación"
+    },
+    {
+      "n": 9,
+      "code": "AT21 00143 UCO",
+      "title": "Development of bio-based functional hydrogels for 3D bioprinting (HIDROM3D). Junta de Andalucía (PAIDI 2020). Universidad de Córdoba. Duración: 15/07/2022 – 31/05/2023. Investigadores principales: Eduardo Espinosa / Alejandro Rodríguez. Presupuesto: 71.000,00 €",
+      "duration": "",
+      "budget": "71.000,00 €.",
+      "role": "Investigador principal"
+    },
+    {
+      "n": 10,
+      "code": "CTQ2016-78729-R",
+      "title": "Cellulosic lignonanofibers from agri-food waste for sustainable food packaging",
+      "duration": "",
+      "budget": "96.800,00 €",
+      "role": "Equipo de investigación"
+    },
+    {
+      "n": 11,
+      "code": "AT17 -5665",
+      "title": "Aprovechamiento de residuos hortofrutícolas para envases agroalimentarios (ENVAGRO). Junta de Andalucía. Universidad de Córdoba. Duración: 01/12/2019 – 31/05/2021. Investigador principal: Alejandro Rodríguez Pascual. Presupuesto: 74.480,00 €. Rol: Equipo de trabajo",
+      "duration": "",
+      "budget": "74.480,00 €",
+      "role": "Equipo de trabajo"
+    },
+    {
+      "n": 12,
+      "code": "AT17 -5927",
+      "title": "Producción de envases y embalajes a partir de residuos agrícolas. Junta de Andalucía. Universidad de Córdoba. Duración: 01/01/2020 – 30/06/2021. Investigadora principal: Elena Carrasco Jiménez. Presupuesto: 53.587,50 €. Rol: Equipo de trabajo",
+      "duration": "",
+      "budget": "53.587,50 €",
+      "role": "Equipo de trabajo"
+    }
+  ],
+  "publications": [
+    {
+      "n": 1,
+      "authors": "Andrea Lucena, Ramón Morcillo -Martín, Esther Rincón, Alejandro Rodríguez, Fernando Pérez-Rodríguez, Eduardo Espinosa",
+      "title": "Valorization of Avocado ( Persea americana) leaves through the optimization of Microwave-Assisted Extraction and Assesment of Functional and Bioactive Properties",
+      "journal": "ACS Agricultural Science & Technology (American Chemical Society)",
+      "year": "2026",
+      "doi": "10.1021/acsagscitech.5c00803",
+      "quartile": "21/94 Q1",
+      "cites": "0"
+    },
+    {
+      "n": 2,
+      "authors": "Jean Carlos Correia P eres Acosta, Asma Enterazi, Ramón Morcillo -Martín, Araceli Bolivar, Arícia Possas, Esther Rincón, Eduardo Espinosa, Fernando Pérez - Rodríguez",
+      "title": "Biocontrol of Salmonella enterica serovar Enteritidis in raw meat using bacteriophage-loaded gelatine-pullulan composite films incorporating cellulose nanofibers",
+      "journal": "Food Microbiology (Elsevier)",
+      "year": "2026",
+      "doi": "10.1016/j.fm.2025.105012",
+      "quartile": "34/177 Q1",
+      "cites": "0"
+    },
+    {
+      "n": 3,
+      "authors": "Eshter Rincón, Maryam Neja ti, Li Zha, Eduardo Espinosa, Amparo Jiménez - Quero",
+      "title": "Enhancing wound dressing efficiency: cellulose nanofiber sponges loaded with Ganoderma lucidum mycelium fractions",
+      "journal": "International Journal of Biological Macromolecules (Elsevier)",
+      "year": "2026",
+      "doi": "10.1016/j.ijbiomac.2025.149401",
+      "quartile": "8/76 D1",
+      "cites": "0"
+    },
+    {
+      "n": 4,
+      "authors": "Ramón Morcillo-Martín, Esther Rincón, Quim Tarrés, Gabriela Bastida, Eduardo Espinosa, Alejandro Rodríguez",
+      "title": "Bio-polyethylene composites reinforced with tomato pruning-derived cellulose fibers for sustainable food packaging applications",
+      "journal": "Fibers and Polymers (The Korean Fiber Society)",
+      "year": "2025",
+      "doi": "10.1007/s12221-025-01135-4",
+      "quartile": "9/31 Q1",
+      "cites": "0"
+    },
+    {
+      "n": 5,
+      "authors": "Elena Usala, Zoilo G onzález, Noelia Campillo, José Baena, Esther Rincón, Begoña Ferrari, Alejandro Rodríguez, Eduardo Espinosa",
+      "title": "Development of 3D printable conductive cellulose-based hydrogel with incorporation of rGO for neural tissue engineering",
+      "journal": "Journal of Colloid and Interface Science (Elsevier)",
+      "year": "2026",
+      "doi": "10.1016/j.jcis.2025.139285",
+      "quartile": "31/185 Q1",
+      "cites": "0"
+    },
+    {
+      "n": 6,
+      "authors": "Esther Rincón, Fernando Cámara-Martos, Elena Usala, Luis A. Trujillo, Eduardo Espinosa",
+      "title": "Curcumin-loaded O/W Picker ing emulsion stabilized by (ligno)cellulose nanofibers: impact of surface charge, morphology, and chemical composition on emulsion efficacy, storage stability and bioaccesibility.",
+      "journal": "Cellulose (Springer)",
+      "year": "2025",
+      "doi": "10.1007/s10570-025-06804-4",
+      "quartile": "2/24 D1",
+      "cites": "1"
+    },
+    {
+      "n": 7,
+      "authors": "Sergio Carrasco, Juan Amaro -Gahete, Eduardo Espinosa, Almudena Benítez, Francisco J. Romero-Salguero, Alejandro Rodríguez",
+      "title": "Engineering PVA-CNF-MOF composite films for active packaging: enhancing mechanical strength, barrier performance, and stability for fresh produce preservation.",
+      "journal": "Molecules (MDPI)",
+      "year": "2025",
+      "doi": "10.3390/molecules30193971",
+      "quartile": "76/239 Q2",
+      "cites": "1"
+    },
+    {
+      "n": 8,
+      "authors": "Elena Usala, Zoilo González, Noelia Campillo, José Baena, Begoña Ferrari, Alejandro Rodríguez, Eduardo Espinosa",
+      "title": "Impact of steam sterilization on the rheological characteristics, printability, and bioactivity of nanocellulose/alginate hydrogels for 3D bioprinting",
+      "journal": "Carbohydrate Polymer Technologies and Applications (Elsevier)",
+      "year": "2025",
+      "doi": "10.1016/j.carpta.2025.100970",
+      "quartile": "9/94 D1",
+      "cites": "1"
+    },
+    {
+      "n": 9,
+      "authors": "Andrea Lucena, Esther Rincón, Pamela Freire de Moura Pereira, Amparo Jiménez- Quero, Alejandro Rodríguez. Fernando Pérez-Rodríguez, Eduardo Espinosa",
+      "title": "Hemicellulose/PVA-based bioactive films for food packaging: effect of the molecular weight of avocado pruning waste -derived hemicellulose on biocomposite properties",
+      "journal": "International Journal of Biological Macromolecules (Elsevier)",
+      "year": "2025",
+      "doi": "10.1016/j.ijbiomac.2025.142982",
+      "quartile": "7/76 D1",
+      "cites": "1"
+    },
+    {
+      "n": 10,
+      "authors": "Esther Rincón, Ana Grenha, Joana Pinto da Silva, Eduardo Espinosa, Fernando Lafont-Déniz, María Prieto-Peinado, Fernando Cámara-Martos",
+      "title": "Improving benzyl -isothiocyanate bioaccessibility in white mustard ( Sinapis alba ) sauce through spray-drying microencapsulation and Pickering emulsions",
+      "journal": "Food Research International (Elsevier)",
+      "year": "2025",
+      "doi": "10.1016/j.foodres.2025.116091",
+      "quartile": "13/182 D1",
+      "cites": "2"
+    },
+    {
+      "n": 11,
+      "authors": "Ramón Morcillo-Martín, Marc Borrega, Stefania Bertella, Petri Widsten, Esther Rincón, Eduardo Espinosa, Alejandro Rodríguez",
+      "title": "Lignin micro/nanoparticles from alternative biomass so urces for ne utral-pH Pickering emulsions and quercetin encapsulation",
+      "journal": "International Journal of Biological Macromolecules (Elsevier)",
+      "year": "2025",
+      "doi": "10.1016/j.ijbiomac.2025.143223",
+      "quartile": "7/76 D1",
+      "cites": "3"
+    },
+    {
+      "n": 12,
+      "authors": "Ramón Morcillo -Martín, Laura Rabasco -Vílchez, Francisco Jiménez -Jiménez, Eduardo Espinosa, Quim Tarrés, Alejandro Rodríguez",
+      "title": "Thermoformed fiber-polyethylene biocomposites: a circular food packaging on cherry tomatoes",
+      "journal": "Food and Bioprocess Technology (Springer)",
+      "year": "2025",
+      "doi": "10.1007/s11947-024-03610-x",
+      "quartile": "34/182 Q1",
+      "cites": "7"
+    },
+    {
+      "n": 13,
+      "authors": "Laura Arroyo -Esquivel, Esther Rincón, Victor M. Jiménez, Fabián Vásques, Patricia Esquivel, Eduardo Espinosa, Alejandro Rodríguez",
+      "title": "Valorization of Red Pitahaya (Hylocereus sp.) peel through a multi-product cascade biorefinery approach towards bioactive food packaging films.",
+      "journal": "Food Biophysics (Springer)",
+      "year": "2025",
+      "doi": "10.1007/s11483-024-09907-w",
+      "quartile": "83/182 Q2",
+      "cites": "4"
+    },
+    {
+      "n": 14,
+      "authors": "Diego Gómez-Maldonado, Brieanne R. Dickson, Grabriel Au, Michael J. Bortner, Mi Li, Eduardo Espinsoa, Alejandro Rodríguez, Brendan Higgins, María S. Peresin",
+      "title": "Exploring the effects of cellulose sources on silver reduction and the bacterial removal of nanocellulose-based hydrogel beads",
+      "journal": "Carbohydrate Polymers (Elsevier)",
+      "year": "2025",
+      "doi": "10.1016/j.carbpol.2024.122771",
+      "quartile": "4/76 D1",
+      "cites": "3"
+    },
+    {
+      "n": 15,
+      "authors": "Asma Entezari, Jean Carlos Correia Peres Costa, Ramón Morcillo-Martín, Esther Rincón, Eduardo Espinosa, Nasser Sedaghat, Golshan Shakeri, Alejandro Rodríguez, Fernando Pérez-Rodríguez",
+      "title": "Comprehensive characterization of gelatin-pullulan blend films incorporated with bacteriophages: assessing physicochemical, mechanical, optical, thermal and antimicrobial properties",
+      "journal": "Food and Bioprocess Technology (Springer)",
+      "year": "2024",
+      "doi": "10.1007/s11947-024-03445-6",
+      "quartile": "34/182 Q1",
+      "cites": "4"
+    },
+    {
+      "n": 16,
+      "authors": "Esther Rincón, Eduardo Espinosa, Ramón Morcillo-Martín, Andrea Lucena, Zoilo González, Alejandro Rodríguez",
+      "title": "Pilot-scale production of fiber-based trays from horticultural residues as sustainable packaging for ready-to-eat foods",
+      "journal": "Biomass Conversion and Biorefinery (Springer) Currículum Eduardo Espinosa Víctor Plaza código F260150 Página 27 de 59",
+      "year": "2024",
+      "doi": "10.1007/s13399-023-05005-y",
+      "quartile": "61/176 Q2",
+      "cites": "4"
+    },
+    {
+      "n": 17,
+      "authors": "Ilke Uysal -U n a l a n , E c e S o g u t , C a r o l i n a E . R e a l i n i , H u l y a C a k m a k , E m e l O z , Eduardo Espinosa, Ramón Morcillo -Martín, Faith Oz, Maristina Nurmi, Miguel A. Cerqueira, Kalpani Y . Perera, Zehra Ayhan, D. Arserim- Ucar, Chrysoula Kanakaki, Polymeros Chrysochou, Begonya Marcos, Milena Corredig",
+      "title": "Bioplastic packaging for fresh meat and fish: current status and future direction on mitigating food and packaging waste",
+      "journal": "Trends in Food Science & Technology (Elsevier)",
+      "year": "2024",
+      "doi": "10.1016/j.tifs.2024.104660",
+      "quartile": "2/182 D1",
+      "cites": "31"
+    },
+    {
+      "n": 18,
+      "authors": "Ramón Morcillo -Martín, Quim Tarrés, Roberto J. Aguado, Eduardo Espinosa, Marc Delgado-Aguilar, Alejandro Rodríguez",
+      "title": "Avocado Pruning Residues for the formulation of Bio-based polyethylene/fiber-based biocomposites for sustainable food packaging",
+      "journal": "Advanced Sustainable Systems (Wiley)",
+      "year": "2024",
+      "doi": "10.1002/adsu.202300600",
+      "quartile": "125/461 Q2",
+      "cites": "10"
+    },
+    {
+      "n": 19,
+      "authors": "Laura M. Sánchez, Esther Rincón, Jorge de Haro, Ramón Morcillo -Martín, Eduardo Espinosa, Alejandro Rodríguez",
+      "title": "Vegetable lignocellulosic residues and chitosan as valuable resources in the superabsorbent bio-aerogel development for food preservation",
+      "journal": "Food and Bioprocess Technology (Springer)",
+      "year": "2024",
+      "doi": "10.1007/s11947-023-03191-1",
+      "quartile": "34/182 Q1",
+      "cites": "8"
+    },
+    {
+      "n": 20,
+      "authors": "Alejandro Hernández-Sosa, Jorge Mercado-Rico, Elena Usala, Gabriela Cataldi, Adrián Esteban-Arranz, Evis Penott -Chang, Alejandro J. Müller, Zoilo González, Eduardo Espinosa, Rebeca Hernández",
+      "title": "Composite nano-fibrillated cellulose-alginate hydrogels: effect of chemical composition on 3D extrusion printing and drug release",
+      "journal": "Polymer (Elsevier)",
+      "year": "2024",
+      "doi": "10.1016/j.polymer.2024.126845",
+      "quartile": "27/94 Q1",
+      "cites": "10"
+    },
+    {
+      "n": 21,
+      "authors": "Annachiara Pirozzi, Esther Rincón, Eduardo E spinosa, Francesco Dosni, Luis Serrano",
+      "title": "Nanostructured cellulose-based aerogels: Influence of chemical/mechanical cascade processes on quality index for benchmarking dye pollutant adsorbents in wastewater treatment",
+      "journal": "Gels (MDPI)",
+      "year": "2023",
+      "doi": "10.3390/gels9120958",
+      "quartile": "14/95 Q1",
+      "cites": "6"
+    },
+    {
+      "n": 22,
+      "authors": "Elena Usala, Eduardo Espinosa, Wasim El Arfaoui, Ramón Morcillo -Martín, Begoña Ferrari, Zoilo González",
+      "title": "Antibacterial aerogels -based membranes by c ustomized colloidal functionalization of TEMPO-oxidized cellulose nanofibers incorporating CuO",
+      "journal": "Bioengineering (MDPI)",
+      "year": "2023",
+      "doi": "10.3390/bioengineering10111312",
+      "quartile": "44/123 Q2",
+      "cites": "9"
+    },
+    {
+      "n": 23,
+      "authors": "Ramón Morcillo -Martín, Laura Rabasco -Vílchez, Eduardo Espinosa, Fernando Pérez-Rodríguez, Alejandro Rodríguez",
+      "title": "Raspberry (Rubus idaeus L.) waste -derived nanocellulose for circular application in edible films and coatings",
+      "journal": "LWT (Elsevier)",
+      "year": "2023",
+      "doi": "10.1016/j.lwt.2023.115438",
+      "quartile": "20/173 Q1",
+      "cites": "22"
+    },
+    {
+      "n": 24,
+      "authors": "Arun Kumar Gupta, Tanuva Das, Himanshu Kumar, Sarushi Rastogi, Eduardo Espinosa, Esther Rincón, Ramón Morcillo -Martín, Muzamil Ahmad Rather, Vijay Kumar, Bindu Naik, Hilal Ahmad Makroo, Hong-Wei Xiao, Rajeev Ranjan, Sadhna Mishra",
+      "title": "Novel food materials: Fundamentals and applications in sustainable food systems for food processing and safety",
+      "journal": "Food Bioscience (Elsevier)",
+      "year": "2023",
+      "doi": "10.1016/j.fbio.2023.103013",
+      "quartile": "36/173 Q1",
+      "cites": "10"
+    },
+    {
+      "n": 25,
+      "authors": "Laura M. Sánchez, Abigail K. Hopkins, Eduardo Espinosa, E neko Larrañeta, Dessislava Malinova, Adam N. McShane, Juan Domínguez-Robles, Alejandro Rodríguez Currículum Eduardo Espinosa Víctor Plaza código F260150 Página 29 de 59",
+      "title": "Antioxidant cellulose nanofibers/lignin -based aerogels: a potential material for biomedical applications",
+      "journal": "Chemical and Biological Technologies in Agriculture (Springer)",
+      "year": "2023",
+      "doi": "10.1186/s40538-023-00438-z",
+      "quartile": "9/89 D1",
+      "cites": "21"
+    },
+    {
+      "n": 26,
+      "authors": "Esther Rincón, Eduardo Espinosa, María Pinillos, Luis Serrano",
+      "title": "Bioactive absorbent chitosan aerogels reinforced with bay tree pruning waste nanocellulose with antioxidant properties for burger meat preservation",
+      "journal": "Polymers (MDPI)",
+      "year": "2023",
+      "doi": "10.3390/polym15040866",
+      "quartile": "19/95 Q1",
+      "cites": "19"
+    },
+    {
+      "n": 27,
+      "authors": "Sergio Carrasco, Eduardo Espinosa, Zoilo González, Manuel Cruz -Yusta, Luis Sánchez, Alejandro Rodríguez",
+      "title": "Simple route to prepare composite nanocellulose aerogels: a case of photocatalytic De-NOx materials application",
+      "journal": "ACS Sustainable Chemistry & Engineering (American Chemical Society)",
+      "year": "2023",
+      "doi": "10.1021/acssuschemeng.2c06170",
+      "quartile": "21/170 Q1",
+      "cites": "16"
+    },
+    {
+      "n": 28,
+      "authors": "Alejandro Rodríguez, Eduardo Espinosa, Carlos Martín",
+      "title": "Special Issue “Lignocellulosic Biomass II”",
+      "journal": "Molecules (MDPI)",
+      "year": "2023",
+      "doi": "10.3390/molecules28176230",
+      "quartile": "77/231 Q2",
+      "cites": "0"
+    },
+    {
+      "n": 29,
+      "authors": "Esther Rincón, Jorge de Ha ro, Ramón Morcillo -Martín, Eduardo Espinosa, Alejandro Rodríguez",
+      "title": "Boosting functional properties of active-CMC films reinforced with agricultural residues-derived cellulose nanofibres",
+      "journal": "RSC Advances (Royal Society of Chemistry)",
+      "year": "2023",
+      "doi": "10.1039/D3RA04003H",
+      "quartile": "80/231 Q2",
+      "cites": "10"
+    },
+    {
+      "n": 30,
+      "authors": "Jorge de Haro, Esther Rincón, Zoilo González, Eduardo Espinosa, Alejandro Rodríguez",
+      "title": "Nanocellulose from Spanish harvesting residues to improve the sustainability and functionality of linerboard recycling processes",
+      "journal": "Nanomaterials (MDPI)",
+      "year": "2022",
+      "doi": "10.3390/nano12244447",
+      "quartile": "110/344 Q2",
+      "cites": "13"
+    },
+    {
+      "n": 31,
+      "authors": "Esther Rincón, Juana M. Bautista, Eduardo Espinosa, Luis Serrano",
+      "title": "Biopolymer-based sachets enr iched with acorn shell extracts produced by ultrasound-assisted extraction for active packaging",
+      "journal": "Journal of Applied Polymer Science (Wiley)",
+      "year": "2022",
+      "doi": "10.1002/app.53102",
+      "quartile": "43/86 Q2",
+      "cites": "5"
+    },
+    {
+      "n": 32,
+      "authors": "Eduardo Espinosa, Esther Rincón, Ramón Morcillo -Martín, Laura Rabasco - Vílchez, Alejandro Rodríguez",
+      "title": "Orange peel waste biorefinery in multi-component cascade approach: Polyphenolic compounds and nanocellulose for food packaging",
+      "journal": "Industrial Crops and Products (Elsevier)",
+      "year": "2022",
+      "doi": "10.1016/j.indcrop.2022.115413",
+      "quartile": "7/88 D1",
+      "cites": "68"
+    },
+    {
+      "n": 33,
+      "authors": "Isabel Bascón- Villegas, Miguel Pereira, Eduardo Espinosa, Mónica Sánchez - Gutiérrez, Alejandro Rodríguez, Fernando Pérez-Rodríguez",
+      "title": "A new eco-friendly packaging system incorporating lignocellulose nanofibres fom agri-food residues applied to fresh-cut lettuce",
+      "journal": "Journal of Cleaner Production (Elsevier)",
+      "year": "2022",
+      "doi": "10.1016/j.jclepro.2022.133597",
+      "quartile": "22/275 D1",
+      "cites": "32"
+    },
+    {
+      "n": 34,
+      "authors": "Laura M. Sánchez, Eduardo Espinosa, Pedro Mendoza -Zélis, Ramón Morcillo - Martín, Jorge de Haro, Alejandro Rodríguez",
+      "title": "Cellulose nanofibes/PVA blend polymeric beads co ntaining in-situ prepared magnetic nanorods as dye pollutants adsorbents",
+      "journal": "International Journal of Biological Macromolecules (Elsevier)",
+      "year": "2022",
+      "doi": "10.1016/j.ijbiomac.2022.04.142",
+      "quartile": "7/73 D1",
+      "cites": "18"
+    },
+    {
+      "n": 35,
+      "authors": "Ramón Morcillo -Martín, Eduardo Espinosa, Laura Rabasco -Vílchez, Laura M. Sánchez, Jorge de Haro, Alejandro Rodríguez",
+      "title": "Cellulose nanofiber-based aerogels from wheat straw: Influence of surface load and lignin content on their properties and dye removal capacity",
+      "journal": "Biomolecules (MDPI)",
+      "year": "2022",
+      "doi": "10.3390/biom12020232",
+      "quartile": "70/285 Q1",
+      "cites": "61"
+    },
+    {
+      "n": 36,
+      "authors": "Camila M. Cova, Esther Rincón, Eduardo Espinosa, Luis Serrano, Alessio Zuliani",
+      "title": "Paving the way for a green transition in the design of sensors and biosensors for the detection of volatile organic compounds (VOCs)",
+      "journal": "Biosensors (MDPI)",
+      "year": "2022",
+      "doi": "10.3390/bios12020051",
+      "quartile": "14/86 Q1",
+      "cites": "49"
+    },
+    {
+      "n": 37,
+      "authors": "Isabel Bascón-Villegas, Mónica Sánchez-Gutiérrez, Fernando Pérez-Rodríguez, Eduardo Espinosa, Alejandro Rodríguez",
+      "title": "Lignocellulose nanofibre obtained from agricultural wastes of tomato, pepper and eggplants improves the performance of films of polyvinyl alcohol (PVA) for food packaging",
+      "journal": "Foods (MDPI)",
+      "year": "2021",
+      "doi": "10.3390/foods10123043",
+      "quartile": "35/144 Q1",
+      "cites": "26"
+    },
+    {
+      "n": 38,
+      "authors": "Eduardo Espinosa, Quim T a rr és , D yn a T h eng, Ma r c Delga do-Aguilar, Alejandro Rodríguez, Pere Mutjé",
+      "title": "Effect of enzymatic treatment (endo-glucanases) of fiber and mechanical lignocellulose nanofibers addition on physical and mechanical properties of binderless high-density fiberboards made from wheat straw",
+      "journal": "Journal of Building Engineering (Elsevier)",
+      "year": "2021",
+      "doi": "10.1016/j.jobe.2021.103392",
+      "quartile": "9/138 D1",
+      "cites": "19"
+    },
+    {
+      "n": 39,
+      "authors": "Esther Rincón, Eduardo Espinosa, María T. García -Domínguez, Alina M. Balu, Francisco Vilaplana, Luis Serrano, Amparo Jiménez-Quero",
+      "title": "Bioactive pectic polysaccharides from bay tree pruning waste: Sequential subcritical water extraction and application in active food packaging",
+      "journal": "Carbohydrate Polymers (Elsevier) Currículum Eduardo Espinosa Víctor Plaza código F260150 Página 32 de 59",
+      "year": "2021",
+      "doi": "10.1016/j.carbpol.2021.118477",
+      "quartile": "4/73 D1",
+      "cites": "48"
+    },
+    {
+      "n": 40,
+      "authors": "Mónica Sánchez -Gutiérrez, Isabel Bascón -Villegas, Eduardo Espinosa, Elena Carrasco, Fernando Pérez-Rodríguez, Alejandro Rodríguez",
+      "title": "Cellulose nanofibers from olive tree pruning as food packaging additive of a biodegradable film",
+      "journal": "Foods (MDPI)",
+      "year": "2021",
+      "doi": "10.3390/foods10071584",
+      "quartile": " 35/144 Q1",
+      "cites": "65"
+    },
+    {
+      "n": 41,
+      "authors": "Alejandro Rodríguez, Eduardo Espinosa",
+      "title": "Special Issue “Lignocellulosic Biomass”",
+      "journal": "Molecules (MDPI)",
+      "year": "2021",
+      "doi": "10.3390/molecules26051483",
+      "quartile": " 65/179 Q2",
+      "cites": "12"
+    },
+    {
+      "n": 42,
+      "authors": "Eduardo Espinosa, Fleur Rol, Julien Bras, Alejandro Rodríguez",
+      "title": "Use of multi-factorial analysis to determine the quality of cellulose nanofibers: effect of nanofibrillation treatment and residual lignin content",
+      "journal": "Cellulose (Springer)",
+      "year": "2020",
+      "doi": "10.1007/s10570-020-03136-3",
+      "quartile": "1/22 D1",
+      "cites": "57"
+    },
+    {
+      "n": 43,
+      "authors": "Eduardo Espinosa, Rafael I. Arrebola, Isabel Bascón-Villegas, Mónica Sánchez- Gutiérrez, Juan Domínguez-Robles, Alejandro Rodríguez",
+      "title": "Industrial application of orange tree nanocellulose as papermaking reinforcement agent",
+      "journal": "Cellulose (Springer)",
+      "year": "2020",
+      "doi": "10.1007/s10570-020-03353-w",
+      "quartile": "1/22 D1",
+      "cites": "33"
+    },
+    {
+      "n": 44,
+      "authors": "Tatiana Budtova, Daniel Antonio Aguilera, Sergejs Beluns, Linn Berglund, Coraline Chartier, Eduardo Espinosa, Sergejs Gaidukovs, Agnieszka Klimek -Kopyra, Angelika Kmita, Dorota Lachowicz, Falk Liebner, Oskars Platnieks, Alejandro Rodríguez, Lizeth Katherine Tinoco Navarro, Fangxin Zou, Sytze J. Buwalda Currículum Eduardo Espinosa Víctor Plaza código F260150 Página 33 de 59",
+      "title": "Biorefinery approach for aerogels",
+      "journal": "Polymers (MDPI)",
+      "year": "2020",
+      "doi": "10.3390/polym12122779",
+      "quartile": "18/90 Q1",
+      "cites": "24"
+    },
+    {
+      "n": 45,
+      "authors": "Frances X. Espinach, Eduardo Espinosa, Rafael Reixach, Alejandro Rodríguez, Pere Mutjé, Quim Tarrés",
+      "title": "Study on the macro and micromechanics tensile strength properties of orange tree pruning fiber as sustainable reinforcement on bio-polyethylene compared to oil-derived polymers and its composites",
+      "journal": "Polymers (MDPI)",
+      "year": "2020",
+      "doi": "10.3390/polym12102206",
+      "quartile": "18/90 Q1",
+      "cites": "57"
+    },
+    {
+      "n": 46,
+      "authors": "Juan Domínguez -Robles, Mª del Valle Palenzuela, Rafael Sánchez Javier M. Loaiza, Eduardo Espinosa, Antonio Rosal, Alejandro Rodríguez",
+      "title": "Coagulation-flocculation as an alternative way to reduce the toxicity of the black liquor from the paper industry: thermal valorization of the solid biomass recovered",
+      "journal": "Waste and Biomass Valorization (Springer)",
+      "year": "2020",
+      "doi": "10.1007/s12649-019-00795-7",
+      "quartile": "108/279 Q2",
+      "cites": "21"
+    },
+    {
+      "n": 47,
+      "authors": "Isabel Bascón- Villegas, Eduardo Espinosa, Rafael Sñanchez, Quim Tarrés, Fernando Pérez-Rodríguez, Alejandro Rodríguez",
+      "title": "Horticultural plant residues as new source for lignocellulose nanofibers isolation: application on the recycling paperboard process",
+      "journal": "Molecules (MDPI)",
+      "year": "2020",
+      "doi": "10.3390/molecules25143275",
+      "quartile": "63/178 Q2",
+      "cites": "26"
+    },
+    {
+      "n": 48,
+      "authors": "Fabiola Vilaseca, Ferran Serra -Parareda, Eduardo Espinosa, Alejandro Rodríguez, Pere Mutjé, Marc Delgado-Aguilar",
+      "title": "Valorization of Hemp core residues: impact of NaOH treatment on the flexural strength of PP composites and intrinsic flexural strength of hemp core fibers",
+      "journal": "Biomolecules (MDPI)",
+      "year": "2020",
+      "doi": "10.3390/biom10060823",
+      "quartile": "96/295 Q2",
+      "cites": "19"
+    },
+    {
+      "n": 49,
+      "authors": "Mónica Sánchez-Gutiérrez, Eduardo Espinosa, Isabel Bascón-Villegas, Fernando Pérez-Rodríguez, Elena Carrasco, Alejandro Rodríguez",
+      "title": "Production of cellulose nanofibers from olive tree harvest – A residue with wide applications",
+      "journal": "Agronomy (MDPI)",
+      "year": "2020",
+      "doi": "10.3390/agronomy10050696",
+      "quartile": "16/91 Q1",
+      "cites": "78"
+    },
+    {
+      "n": 50,
+      "authors": "Ferran Serra-Parareda, Fernando Julián, Eduardo Espinosa, Alejandro Rodríguez, Francesc X. Espinach, Fabiola Vilaseca",
+      "title": "Feasibility of bar ley straw fibers as reinforcement in fully biobased polyethylene composites: macro and micro mechanics of the flexural strength",
+      "journal": "Molecules (MDPI)",
+      "year": "2020",
+      "doi": "10.3390/molecules25092242",
+      "quartile": "63/178 Q2",
+      "cites": "30"
+    },
+    {
+      "n": 51,
+      "authors": "Juan Domínguez-Robles, Eduardo Espinosa, Mª del Valle Palenzuela, Mª Eugenia Eugenio, Alejandro Rodríguez, Antonio Rosal",
+      "title": "Evaluation of the potential of alternative vegetable materials for production of paper through kraft processes",
+      "journal": "Cellulose Chemistry and Technology (Editura Acad Romane)",
+      "year": "2020",
+      "doi": "Indicios de calidad: Índice de impacto (IF) 20 20: 1,467 (11/22 Q2), Materials Science, Paper & Wood. Citas: 8",
+      "quartile": "11/22 Q2",
+      "cites": "8"
+    },
+    {
+      "n": 52,
+      "authors": "John Moohan, Sarah A. Stewart, Eduardo Espinosa, Antonio Rosal, Alejandro Rodríguez, Eneko Larrañeta, Ryan F . Donnelly, Juan Domínguez-Robles",
+      "title": "Cellulose nanofibers and other biopolymers for biomedical applications. A review",
+      "journal": "Applied Sciences (MDPI)",
+      "year": "2020",
+      "doi": "10.3390/app10010065",
+      "quartile": "38/90 Q2",
+      "cites": "239"
+    },
+    {
+      "n": 53,
+      "authors": "Eduardo Espinosa, Isabel Bascón.Villegas, Antonio Rosal, Fernando Pérez - Rodríguez, Gary Chinga-Carrasco, Alejandro Rodríguez",
+      "title": "PVA(ligno) nanocellulose biocomposite films. Effect of residual lignin content on structural, mechanical, barrier and antioxidant properties.",
+      "journal": "International Journal of Biological Macromolecules (Elsevier)",
+      "year": "2019",
+      "doi": "10.1016/j.ijbiomac.2019.08.262 Currículum Eduardo Espinosa Víctor Plaza código F260150 Página 35 de 59",
+      "quartile": "7/75 D1",
+      "cites": "157"
+    },
+    {
+      "n": 54,
+      "authors": "Eduardo Espinosa, Fleur Rol, Julien Bras, Alejandro Rodríguez",
+      "title": "Production of lignocellulose nanofibers from wheat straw by different fibrillation methods. Comparison of its viability in cardboard recycling process",
+      "journal": "Journal of Cleaner Production",
+      "year": "2019",
+      "doi": "10.1016/j.jclepro.2019.118083",
+      "quartile": "19/265 D1",
+      "cites": "101"
+    },
+    {
+      "n": 55,
+      "authors": "Mihaela Tanase-Opedal, Eduardo Espinosa, Alejandro Rodríguez, Gary Chinga - Carrasco",
+      "title": "Lignin: A biopolymer from forestry biomass for biocomposites and 3D printing",
+      "journal": "Materials (MDPI)",
+      "year": "2019",
+      "doi": "10.3390/ma12183006",
+      "quartile": "132/314 Q2",
+      "cites": "250"
+    },
+    {
+      "n": 56,
+      "authors": "Adriane Cherpinski, Atanu Biswas, Jose M. Lagarón, Alain Dufresne, Sanghoon Kilm, Megan Buttrum, Eduardo Espinosa, HN Cheng.",
+      "title": "Preparation and evaluation of oxygen scavenging nanocomposite films incorporating cellulose nanocrystals and Pd nanoparticles in poly(ethylene-co-vinyl alcohol).",
+      "journal": "Cellulose (Springer)",
+      "year": "2019",
+      "doi": "10.1007/s10570-019-02613-8",
+      "quartile": "1/21 D1",
+      "cites": "20"
+    },
+    {
+      "n": 57,
+      "authors": "Eduardo Espinosa, Quim Tarrés, Juan Domínguez-Robles, Marc Delgado-Aguilar, Pere Mutjé, Alejandro Rodríguez",
+      "title": "Recycled fibers for fluting production: The role of lignocellulosic micro/nanofibers of banana leaves",
+      "journal": "Journal of Cleaner Production (Elsevier)",
+      "year": "2018",
+      "doi": "10.1016/j.jclepro.2017.10.174",
+      "quartile": "18/251 D1",
+      "cites": "25"
+    },
+    {
+      "n": 58,
+      "authors": "Eduardo Espinosa, Rafael Sánchez, Zoilo González, Juan Domínguez -Robles, Begoña Ferrari, Alejandro Rodríguez",
+      "title": "Rapidly growing vegetables as new sources for lignocellulose nanofibre isolation: Physicochemical, thermal and rheological characterization Currículum Eduardo Espinosa Víctor Plaza código F260150 Página 36 de 59",
+      "journal": "Carbohydrate Polymer (Elsevier)",
+      "year": "2017",
+      "doi": "10.1016/j.carbpol.2017.07.055",
+      "quartile": "2/75 D1",
+      "cites": "46"
+    },
+    {
+      "n": 59,
+      "authors": "Juan Domínguez -Robles, Rafael Sánchez, Pilar Díaz -Carrasco, Eduardo Espinosa, Mª Trinidad García-Domínguez, Alejandro Rodríguez",
+      "title": "Isolation and characterization of lignins from wheat straw: Application as binder in lithium batteries",
+      "journal": "International Journal of Biological Macromolecules (Elsevier)",
+      "year": "2017",
+      "doi": "10.1016/j.ijbiomac.2017.07.015",
+      "quartile": "9/72 Q1",
+      "cites": "84"
+    },
+    {
+      "n": 60,
+      "authors": "Eduardo Espinosa, Rafael Sánchez, Rocio Otero, Juan Domínguez -Robles, Alejandro Rodríguez",
+      "title": "A comparative study of the suitability of different cereal straws for lignocellulose nanofibers isolation",
+      "journal": "International Journal of Biological Macromolecules (Elsevier)",
+      "year": "2017",
+      "doi": "10.1016/j.ijbiomac.2017.05.156",
+      "quartile": "9/72 Q1",
+      "cites": "107"
+    },
+    {
+      "n": 61,
+      "authors": "Eduardo Espinosa, Juan Domínguez -Robles, Rafael Sánchez, Quim Tarrés, Alejandro Rodríguez",
+      "title": "The effect of pre-treatment on the production of lignocellulosic nanofibers and their application as a reinforcing agent in paper",
+      "journal": "Cellulose (Springer)",
+      "year": "2017",
+      "doi": "10.1007/s10570-017-1281-2",
+      "quartile": "1/21 D1",
+      "cites": "69"
+    },
+    {
+      "n": 62,
+      "authors": "Quim Tarrés, Eduardo Espinosa, Juan Domínguez-Robles, Alejandro Rodríguez, Pere Mutjé, Marc Delgado-Aguilar",
+      "title": "The suitability of banana leaf residue as raw material for the production of high lignin content micro/nanofibers: From residue to value-added products",
+      "journal": "Industrial Crops and Products (Elsevier)",
+      "year": "2017",
+      "doi": "10.1016/j.indcrop.2017.01.021",
+      "quartile": "6/87 D1",
+      "cites": "76"
+    },
+    {
+      "n": 63,
+      "authors": "Juan Domínguez -Robles, Rafael Sánchez, Eduardo Espinosa, Davide Savy, Pierluigi Mazzei, Alessandro Piccolo, Alejandro Rodríguez",
+      "title": "Isolation and characterization of Gramineae and Fabaceae soda lignins",
+      "journal": "International Journal of Molecular Sciences (MDPI)",
+      "year": "2017",
+      "doi": "10.3390/ijms18020327",
+      "quartile": "52/171 Q2",
+      "cites": "70"
+    },
+    {
+      "n": 64,
+      "authors": "Rafael Sánchez, Eduardo Espinosa, Juan Domínguez -Robles, Javier M. Loaiza, Alejandro Rodríguez",
+      "title": "Isolation and characterization of lignocellulose nanofibers from different wheat straw pulps",
+      "journal": "International Journal of Biological Macromolecules (Elsevier)",
+      "year": "2016",
+      "doi": "10.1016/j.ijbiomac.2016.08.019",
+      "quartile": "9/72 Q1",
+      "cites": "126"
+    },
+    {
+      "n": 65,
+      "authors": "Juan Domínguez -Robles, Eduardo Espinosa, Davide Savy, Antonio Rosal, Alejandro Rodríguez",
+      "title": "Biorefinery process combining Specel® process and selective lignin precipitation using mineral acids",
+      "journal": "Bioresources (NC State University)",
+      "year": "2016",
+      "doi": "10.15376/biores.11.3.7061-7077",
+      "quartile": "6/21 Q2",
+      "cites": "68"
+    },
+    {
+      "n": 66,
+      "authors": "Eduardo Espinosa, Quim Tarrés, Marc Delgado -Aguilar, Israel González, Pere Mutjé, Alejandro Rodríguez",
+      "title": "Suitability of wheat straw semichemical pulp for the fabrication of lignocellulosic nanofibres and their application to papermaking slurries.",
+      "journal": "Cellulose (Springer)",
+      "year": "2016",
+      "doi": "10.1007/s10570-015-0807-8",
+      "quartile": "1/21 D1",
+      "cites": "154"
+    }
+  ],
+  "other_publications": [
+    {
+      "n": 1,
+      "title": "Nanocellulose-based aerogels for dyes removal",
+      "journal": "Chemical Engineering Transactions (I talian Association of Chemical Engineering)",
+      "year": "2023",
+      "doi": "10.3303/CET23101020",
+      "kind": "PublicaciÃ³n no JCR"
+    },
+    {
+      "n": 2,
+      "title": "Nanocellulose-based inks – Effect of alginate content on the water absorption of 3D printed constructs",
+      "journal": "Bioengineering (MDPI)",
+      "year": "2019",
+      "doi": "10.3390/bioengineering6030065",
+      "kind": "PublicaciÃ³n no JCR"
+    },
+    {
+      "n": 3,
+      "title": "Production of cellulosic pulp from reed ( Phragmites australis) to produce paper and paperboard",
+      "journal": "Bioprocess Engineering (Science Publishing Group)",
+      "year": "2017",
+      "doi": "10.11648/j.be.20170103.11",
+      "kind": "PublicaciÃ³n no JCR"
+    },
+    {
+      "n": 1,
+      "title": "España: Nanocelulosa y otros productos de alto valor añadido en BIOPREN (Bioprocess and Products Engineering)",
+      "journal": "NANOCELIA. Producción de celulosa nanofibrilada y microfibrilada en Iberoamérica (Red CYTED-NANOCELIA. Transferencia tecnológica sobre aplicaciones de nanocelulosa en Iberoamérica. Programa Iberoamericano de Ciencia y Tecnología para el Desarrollo. Astra ediciones)",
+      "year": "2024",
+      "doi": "10.61728/AE20246006",
+      "kind": "Cap?tulo de libro"
+    },
+    {
+      "n": 2,
+      "title": "Lignocellulosic resources: A key player in the transition to a circular economy",
+      "journal": "New materials for a circular economy (Materials Research Forum LCC)",
+      "year": "2023",
+      "doi": "10.21741/9781644902639",
+      "kind": "Cap?tulo de libro"
+    },
+    {
+      "n": 3,
+      "title": "Alternative raw materials for pulp and paper production in the concept of a lignocellulosic biorefinery",
+      "journal": "Cellulose (IntechOpen)",
+      "year": "2019",
+      "doi": "10.5772/intechopen.75244",
+      "kind": "Cap?tulo de libro"
+    },
+    {
+      "n": 4,
+      "title": "Use of banana tree residues as pulp for paper and combustible",
+      "journal": "Theory and Applications of Physical Science Vol. 2 (BP International)",
+      "year": "2019",
+      "doi": "10.9734/bpi/taps/v2",
+      "kind": "Cap?tulo de libro"
+    },
+    {
+      "n": 5,
+      "title": "Different Solvents for Organosolv Pulping",
+      "journal": "Pulp and Paper Processing (IntechOpen)",
+      "year": "2017",
+      "doi": "10.5772/intechopen.68843",
+      "kind": "Cap?tulo de libro"
+    }
+  ]
+}
