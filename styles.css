@@ -503,14 +503,16 @@ h3 {
 }
 
 .resource-grid,
-.notice-list {
+.notice-list,
+.company-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 16px;
 }
 
 .resource-grid article,
-.notice-list article {
+.notice-list article,
+.company-grid article {
   border: 1px solid var(--line);
   border-radius: 8px;
   padding: 24px;
@@ -528,9 +530,32 @@ h3 {
   font-weight: 900;
 }
 
+.company-grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.company-grid article {
+  min-height: 210px;
+}
+
+.company-grid span {
+  display: block;
+  margin-bottom: 14px;
+  color: var(--teal);
+  font-weight: 900;
+}
+
 .resource-grid p,
-.notice-list p {
+.notice-list p,
+.company-grid p,
+.section-intro {
   color: var(--muted);
+}
+
+.section-intro {
+  max-width: 860px;
+  margin: -14px 0 30px;
+  font-size: 1.05rem;
 }
 
 .contact-actions.inline a {
@@ -621,6 +646,7 @@ footer p {
   .nav-card-grid,
   .resource-grid,
   .notice-list,
+  .company-grid,
   .metrics {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
@@ -644,6 +670,7 @@ footer p {
   .nav-card-grid,
   .resource-grid,
   .notice-list,
+  .company-grid,
   .metrics {
     grid-template-columns: 1fr;
   }
