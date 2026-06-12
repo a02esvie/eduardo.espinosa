@@ -4,7 +4,10 @@ Este prototipo es una web estática lista para revisar en navegador y preparada 
 
 ## Archivos
 
-- `index.html`: página principal.
+- `index.html`: página principal de presentación.
+- `investigacion.html`: líneas de investigación, proyectos y transferencia.
+- `docencia.html`: docencia, dirección académica y gestión docente.
+- `publicaciones.html`: indicadores y publicaciones seleccionadas.
 - `styles.css`: estilos visuales.
 - `assets/research-hero.png`: imagen generada como recurso visual de apoyo.
 
